@@ -13,7 +13,7 @@ all.poolcount (the counts of reads for each strain in each sample)
 Experiments included:
 
 Name	Group	Condition	Description
-set1IT005	kb		KB \n
+set1IT005	kb		KB /n
 set4IT013	kb		KB
 set2IT076	in planta		apoplastic, grinding recovery; Green bean
 set2IT077	in planta		apoplastic, grinding recovery; Green bean
