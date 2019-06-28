@@ -7,7 +7,7 @@ https://biorxiv.org/content/10.1101/637496v1
 The best way to view the data is in the Fitness Browser  
 http://fit.genomics.lbl.gov/
 
-This respository contains additional data:
+This respository contains the additional data:  
 all.poolcount (the counts of reads for each strain in each sample)
 
 Experiments included:
