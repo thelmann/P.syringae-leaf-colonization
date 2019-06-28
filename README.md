@@ -12,20 +12,20 @@ all.poolcount (the counts of reads for each strain in each sample)
 
 Experiments included:
 
-Name	Group	Condition	Description
-set1IT005	kb		KB /n
-set4IT013	kb		KB
-set2IT076	in planta		apoplastic, grinding recovery; Green bean
-set2IT077	in planta		apoplastic, grinding recovery; Green bean
-set2IT080	in planta		epiphytic; Green bean
-set2IT081	in planta		epiphytic; Green bean
-set2IT095	in planta		apoplastic, chopping recovery; Green bean
-set3IT031	in planta		epiphytic; Green bean
-set3IT032	in planta		epiphytic; Green bean
-set6IT083	in planta		apoplastic; Green bean; 6 days
-set6IT084	in planta		apoplastic; Green bean; 6 days
-set1IT049	in planta	epiphytic	Green bean; epiphytic
-set1IT050	in planta	epiphytic	Green bean; epiphytic
+Name	Group	Condition	Description  
+set1IT005	kb		KB  
+set4IT013	kb		KB  
+set2IT076	in planta		apoplastic, grinding recovery; Green bean  
+set2IT077	in planta		apoplastic, grinding recovery; Green bean  
+set2IT080	in planta		epiphytic; Green bean  
+set2IT081	in planta		epiphytic; Green bean  
+set2IT095	in planta		apoplastic, chopping recovery; Green bean  
+set3IT031	in planta		epiphytic; Green bean  
+set3IT032	in planta		epiphytic; Green bean  
+set6IT083	in planta		apoplastic; Green bean; 6 days  
+set6IT084	in planta		apoplastic; Green bean; 6 days  
+set1IT049	in planta	epiphytic	Green bean; epiphytic  
+set1IT050	in planta	epiphytic	Green bean; epiphytic  
 
 With the exception of KB experiments and set2IT095, all experiments are paired technical replicates sequenced separately.
 For the analysis in this paper, fitness values from technical replicates were averaged for a given experiment. 
