@@ -1,8 +1,8 @@
 # P.syringae-leaf-colonization
 
-Preprint:
+Preprint (May 20, 2019):
 https://biorxiv.org/content/10.1101/637496v1  
-"Genome-wide identification of Pseudomonas syringae genes required for competitive fitness during colonization of the leaf surface and apoplast"  May 20, 2019
+"Genome-wide identification of Pseudomonas syringae genes required for competitive fitness during colonization of the leaf surface and apoplast"  
 
 The best way to view the data is in the Fitness Browser  
 http://fit.genomics.lbl.gov/
