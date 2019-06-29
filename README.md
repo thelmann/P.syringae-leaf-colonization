@@ -46,4 +46,4 @@ set6IT084	in planta		apoplastic; Green bean; 6 days
 
 With the exception of KB experiments and set2IT095, all plant experiments are paired technical replicates sequenced separately.  
 Sequencing replicates of time0 samples were combined for a given experiment.  
-For the analysis in this paper, fitness values from technical replicates were averaged for a given experiment. 
+For the analysis in this paper, fitness values from technical replicates were calculated separately, and averaged for a given experiment. 
