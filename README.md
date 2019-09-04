@@ -1,5 +1,9 @@
 # P.syringae-leaf-colonization
 
+Published (September 4, 2019):
+https://www.pnas.org/content/early/2019/09/03/1908858116
+"Genome-wide identification of Pseudomonas syringae genes required for fitness during colonization of the leaf surface and apoplast"
+
 Preprint (May 20, 2019):
 https://biorxiv.org/content/10.1101/637496v1  
 "Genome-wide identification of Pseudomonas syringae genes required for competitive fitness during colonization of the leaf surface and apoplast"  
